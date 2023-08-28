@@ -1,2 +1,2 @@
 # kata-exercises
-Kata exercises to do training
+Kata exercises for training
