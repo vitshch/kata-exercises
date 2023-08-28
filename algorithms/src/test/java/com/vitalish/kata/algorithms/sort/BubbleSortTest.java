@@ -1,4 +1,4 @@
-package com.vitalish.kata.alogorithms.sort;
+package com.vitalish.kata.algorithms.sort;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
