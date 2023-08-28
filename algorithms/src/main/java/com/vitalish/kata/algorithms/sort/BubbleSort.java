@@ -1,4 +1,4 @@
-package com.vitalish.kata.alogorithms.sort;
+package com.vitalish.kata.algorithms.sort;
 
 public class BubbleSort implements SortAlgorithm {
 
